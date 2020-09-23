@@ -2,6 +2,7 @@ import React from "react";
 import axios from "axios";
 import Movie from "./Movie";
 import "./App.css";
+import "./Movie.css";
 
 // function component는 retunr으로 screen에 표시,
 // class component는 react component로부터 확장되고 screen에 표시됨
